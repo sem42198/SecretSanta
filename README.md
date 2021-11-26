@@ -1,0 +1,2 @@
+# Secret Santa
+The idea of this application is to create an easy way to setup a "Secret Santa" game. It takes in a list of participants and their emails then will assign everyone a secret santa. Each participant will recieve an email telling them that they have been added to the game and who they are supposed to buy gifts for. It will also enable them to reply to the email in order to send a message to thier secret santa (without knowing who their secret santa is). 
